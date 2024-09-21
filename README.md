@@ -38,3 +38,11 @@ Botun bağlantı yükünü ve API kullanımını optimize eder. Böylece daha fa
 Botunun shard sayısını belirlemek, toplam sunucu sayısına ve botunun performans gereksinimlerine bağlıdır. Shard sayısını belirlerken, Discord API oranlarını ve botun hangi bölgelerde kullanıldığını göz önünde bulundurmalısın. Eğer emin değilsen, Discord.js’in ``auto`` seçeneğini kullanarak Discord’un API limitlerine göre otomatik shard sayısı ayarlamasını sağlayabilirsin.
 
 Yani eğer belirli bir shard kullanmak istersen `shards.js` dosyasındaki **totalShards** bölümünü bu şekilde istediğin miktarı yazarak ayarlayabilirsin. >>  ``totalShards: 5,`` | Eğerki bunu botunun otomatik olarak senkronize etmesini istiyorsan rakam yerine sadece ``auto`` yazman yeterli olacaktır.
+
+# İLETİŞİM
+
+## Geliştirici
+[![Discord Hype](https://img.shields.io/badge/Discord-HypeCaves-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1198654893758623755)
+
+## Sunucu
+[![Discord Banner](https://api.weblutions.com/discord/invite/codeblog/)](https://discord.gg/codeblog)
